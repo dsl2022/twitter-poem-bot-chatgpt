@@ -1,0 +1,6 @@
+requests==2.28.1
+openai
+python-dotenv
+tweepy
+boto3
+botocore
